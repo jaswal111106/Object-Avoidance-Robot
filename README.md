@@ -42,6 +42,6 @@ Planned or possible extensions include mounting the ultrasonic sensor on a servo
 Author
 __________
 
-Deeksha Jaswal
-B.Tech, Electronics and Communication Engineering
+Deeksha Jaswal, 
+B.Tech, Electronics and Communication Engineering,
 Focused on embedded systems, robotics, IoT, and AI-driven hardware.

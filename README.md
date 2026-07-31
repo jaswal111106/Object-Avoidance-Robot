@@ -39,9 +39,4 @@ ____________________
 
 Planned or possible extensions include mounting the ultrasonic sensor on a servo motor for wider-angle scanning, integrating IR sensors for enhanced obstacle and edge detection, combining line-following and obstacle avoidance into a hybrid navigation mode, adding Bluetooth or Wi-Fi manual override capability, incorporating camera-based computer vision for more advanced object recognition, exploring AI-based path planning, enabling IoT-based remote monitoring, and eventually implementing SLAM for autonomous mapping and localization.
 
-Author
-__________
 
-Deeksha Jaswal, 
-B.Tech, Electronics and Communication Engineering,
-Focused on embedded systems, robotics, IoT, and AI-driven hardware.
